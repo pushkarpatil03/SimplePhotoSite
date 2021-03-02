@@ -14,5 +14,4 @@
 <li>Chrome Dev Tool (for reference)</li>
 </span>
 <footer>
-<h3>Technical Description:</h3>
-<p><b>Installation/Setup : Include link rel="stylesheet" href="photo.css" in *head* part of index.html 
+
